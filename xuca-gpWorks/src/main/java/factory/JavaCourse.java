@@ -1,4 +1,6 @@
-package factory.simplefactory;
+package factory;
+
+import factory.ICourse;
 
 /**
  * Created by xuchangan on 2019/3/9
